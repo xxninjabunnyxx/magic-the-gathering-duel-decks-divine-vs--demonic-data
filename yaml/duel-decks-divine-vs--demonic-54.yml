@@ -1,0 +1,127 @@
+---
+object: card
+id: 8be2edf8-4461-404e-902a-d5d398670221
+oracle_id: fde459b2-f45f-40d2-b328-58f65440f494
+multiverse_ids:
+- 197026
+mtgo_id: 32083
+mtgo_foil_id: 32175
+tcgplayer_id: 36826
+cardmarket_id: 20869
+name: Promise of Power
+lang: en
+released_at: '2009-04-10'
+uri: https://api.scryfall.com/cards/8be2edf8-4461-404e-902a-d5d398670221
+scryfall_uri: https://scryfall.com/card/ddc/54/promise-of-power?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.jpg?1562486226
+  normal: https://cards.scryfall.io/normal/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.jpg?1562486226
+  large: https://cards.scryfall.io/large/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.jpg?1562486226
+  png: https://cards.scryfall.io/png/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.png?1562486226
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.jpg?1562486226
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8be2edf8-4461-404e-902a-d5d398670221.jpg?1562486226
+mana_cost: "{2}{B}{B}{B}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: |-
+  Choose one —
+  • You draw five cards and you lose 5 life.
+  • Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.
+  Entwine {4} (Choose both if you pay the entwine cost.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Entwine
+all_parts:
+- object: related_card
+  id: 367c872c-d019-42aa-b75a-1c66ec81e766
+  component: token
+  name: Demon
+  type_line: Token Creature — Demon
+  uri: https://api.scryfall.com/cards/367c872c-d019-42aa-b75a-1c66ec81e766
+- object: related_card
+  id: 8be2edf8-4461-404e-902a-d5d398670221
+  component: combo_piece
+  name: Promise of Power
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/8be2edf8-4461-404e-902a-d5d398670221
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4a1b5533-e4a3-456e-9fb1-53e754402c23
+set: ddc
+set_name: 'Duel Decks: Divine vs. Demonic'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/4a1b5533-e4a3-456e-9fb1-53e754402c23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8be2edf8-4461-404e-902a-d5d398670221/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afde459b2-f45f-40d2-b328-58f65440f494&unique=prints
+collector_number: '54'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 2983ccb8-eb13-4e63-b039-974c09cee580
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6508
+penny_rank: 5697
+prices:
+  usd: '0.62'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197026
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Promise+of+Power&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Promise+of+Power&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Promise+of+Power
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36826?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Promise+of+Power&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32083?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

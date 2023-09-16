@@ -1,0 +1,112 @@
+---
+object: card
+id: bce81713-109e-460e-a63a-b19a4b85d39f
+oracle_id: 910488bf-66ab-415e-973b-1262b2ab7454
+multiverse_ids:
+- 197005
+mtgo_id: 32073
+mtgo_foil_id: 32165
+tcgplayer_id: 36820
+cardmarket_id: 20832
+name: Marble Diamond
+lang: en
+released_at: '2009-04-10'
+uri: https://api.scryfall.com/cards/bce81713-109e-460e-a63a-b19a4b85d39f
+scryfall_uri: https://scryfall.com/card/ddc/24/marble-diamond?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.jpg?1562486244
+  normal: https://cards.scryfall.io/normal/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.jpg?1562486244
+  large: https://cards.scryfall.io/large/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.jpg?1562486244
+  png: https://cards.scryfall.io/png/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.png?1562486244
+  art_crop: https://cards.scryfall.io/art_crop/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.jpg?1562486244
+  border_crop: https://cards.scryfall.io/border_crop/front/b/c/bce81713-109e-460e-a63a-b19a4b85d39f.jpg?1562486244
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  Marble Diamond enters the battlefield tapped.
+  {T}: Add {W}.
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4a1b5533-e4a3-456e-9fb1-53e754402c23
+set: ddc
+set_name: 'Duel Decks: Divine vs. Demonic'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/4a1b5533-e4a3-456e-9fb1-53e754402c23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bce81713-109e-460e-a63a-b19a4b85d39f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A910488bf-66ab-415e-973b-1262b2ab7454&unique=prints
+collector_number: '24'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Martin
+artist_ids:
+- 996ad764-4ae0-4952-8bb5-5a75c9d68275
+illustration_id: 408e7a2c-6877-4ebc-8e57-32b88e883640
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 577
+penny_rank: 4711
+prices:
+  usd: '0.41'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197005
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Marble+Diamond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Marble+Diamond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Marble+Diamond
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36820?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Marble+Diamond&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32073?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
